@@ -20,35 +20,35 @@ BadUSB cable based on Attiny85 microcontroller (gerbers, design and schematic).
 
 * Start of the project and first BadUSB cable on breadboard (November 2017):
 
-![BadUSB Cable Breadboard](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/badusb-cable-breadboard.jpg)
+![BadUSB Cable Breadboard](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-breadboard.jpg)
 
 
 
 * First BadUSB cable with USB connector (December 2017):
 
-![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/badusb-cable-usb-1.jpg)
+![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-usb-1.jpg)
 
-![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/badusb-cable-usb-2.jpg)
+![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-usb-2.jpg)
 
 
 
 * Finished proof of concept (January 2018):
 
-![BadUSB Cable final test](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/badusb-cable-final-test.jpg)
+![BadUSB Cable final test](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-final-test.jpg)
 
 
 
 * Technical presentation of BadUSB cable and first PCB design (Rev0) presented at Hackplayers Conference (February 2018):
 
-![Design 1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/first-version-1.png)
+![Design 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-1.png)
 
-![Design 1-1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/first-version-2.jpg)
+![Design 1-1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-2.jpg)
 
 
 
 * Rev1 of BadUSB cable design (January 2019):
 
-![Rev1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-1_6*12mm.jpeg)
+![Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-1_6*12mm.jpeg)
 
 **NOTE:** More information in Rev1 section.
 
@@ -56,7 +56,7 @@ BadUSB cable based on Attiny85 microcontroller (gerbers, design and schematic).
 
 * Rev2 of BadUSB cable design (May 2019):
 
-![Rev2](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-2_6*10mm.png)
+![Rev2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-2_6*10mm.png)
 
 **NOTE:** More information in Rev2 section.
 
@@ -64,21 +64,21 @@ BadUSB cable based on Attiny85 microcontroller (gerbers, design and schematic).
 
 * First PCBs (July 2019):
 
-![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/first-pcbs-3.jpeg)
+![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-pcbs-3.jpeg)
 
-![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/multi1.jpeg)
+![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/multi1.jpeg)
 
-![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/multi2.jpeg)
+![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/multi2.jpeg)
 
-![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/multi3.jpeg)
+![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/multi3.jpeg)
 
 * BadUSB Cable (August 2019):
 
-![0](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/finalcable0.jpeg)
+![0](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable0.jpeg)
 
-![1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/finalcable1.jpeg)
+![1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable1.jpeg)
 
-![2](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/finalcable2.jpeg)
+![2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable2.jpeg)
 
 # Acknowledgement
 
@@ -117,26 +117,26 @@ Electronic components have been bought in: https://www.digikey.com/
 # Rev0
 **NOTE:** This Rev0 is included for reference purposes only, Rev2 is the final and full tested version.
 
-![BadUSB Cable Rev0](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/first-version-1.png)
+![BadUSB Cable Rev0](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-1.png)
 
-![BadUSB Cable Rev0](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/first-version-2.jpg)
+![BadUSB Cable Rev0](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-2.jpg)
 
 # Rev1
 **NOTE:** This Rev1 is included for reference purposes only, Rev2 is the final and full tested version.
 
-![BadUSB Cable Rev1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-1.jpg)
+![BadUSB Cable Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-1.jpg)
 
-![BadUSB Cable Rev1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-1_6*12mm.jpeg)
+![BadUSB Cable Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-1_6*12mm.jpeg)
 
 
 # Rev2 (Final version)
 Implementation of BadUSB cable based on Attiny85 microcontroller.
 
-![BadUSB Cable revision-2](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-2_6*10mm.png)
+![BadUSB Cable revision-2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-2_6*10mm.png)
 
-![BadUSB Cable final-1](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-3-graph1.png)
+![BadUSB Cable final-1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-3-graph1.png)
 
-![BadUSB Cable final-2](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/revision-3-graph2.jpg)
+![BadUSB Cable final-2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-3-graph2.jpg)
 
 ## Import the project
 There is a custom built library footprints for this project, remember to import it.
@@ -152,7 +152,7 @@ You can order the necessary components with the gerber files in the gerber direc
 * **White:** D-
 * **Red:** VDD
 
-![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/pinout.png)
+![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout.png)
 
 ## Hardware needed
 
@@ -182,7 +182,7 @@ You must use the correct fuses bit for the bootloader:
 
 AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
 
-![AVRDUDESS](https://github.com/joelsernamoreno/BadUSB-Cable-Gerbers/blob/master/images/avrdudess.png)
+![AVRDUDESS](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/avrdudess.png)
 
 ## Installing Digispark USB Driver
 
