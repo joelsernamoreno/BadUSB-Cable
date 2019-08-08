@@ -1,0 +1,6 @@
+"Id";"Identificador";"Empaquetado";"Cantidad";"Identificación";"Suministrador y ref";
+1;"J1";"pads_badusb";1;"USB_A";;;
+2;"U1";"SOIJ-8_5.3x5.3mm_P1.27mm";1;"ATtiny85V-10SU";;;
+3;"R1,R2";"R_0402_1005Metric";2;"68R";;;
+4;"R3";"R_0402_1005Metric";1;"1K5";;;
+5;"D1";"TSOT-23";1;"D_Zener_x2_ACom_KKA";;;
