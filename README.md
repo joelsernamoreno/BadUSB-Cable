@@ -177,7 +177,7 @@ To burn the bootloader you can use diferent techniques, for the one we use you w
 You must use the correct fuses bit for the bootloader:
 
 * **Extended:** 0xFE
-* **High:** 0xDD
+* **High:** 0x5D
 * **Low:** 0xE1
 
 AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
@@ -191,6 +191,29 @@ AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
 2. Extract the file (DigisparkArduino-Win32-1.0.4-March29.zip) to any folder
 
 3. Execute DigisparkArduino-Win32\DigisparkWindowsDriver\InstallDriver.exe to start installing the USB driver
+
+## Upload Sketch & Payloads
+
+1. Download Arduino IDE: https://www.arduino.cc/en/Main/Software
+2. Install drivers (Windows): https://raw.githubusercontent.com/digistump/DigistumpArduino/master/tools/micronucleus-2.0a4-win.zip
+3. Install libusb y UDEV rules (Linux): http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting
+4. Download DigisparkKeyboard library with multiple layout support: https://github.com/ernesto-xload/DigisparkKeyboard
+5. Unzip library in Arduino/libraries/directory
+6. Edit DigiKeyboard.h file and uncomment #define kbd_es_es
+7. Change #define kbd_es_es for your keyboard layout and save the changes
+8. Run Arduino IDE
+9. Click File and then Preferences
+10. Add the JSON URL to the Additional Boards Manager text box: http://digistump.com/package_digistump_index.json
+11. Click OK
+12. Click Tools > Board > Board Manager
+13. Search and Install: Digistump AVR Boards
+14. Download payloads: https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
+15. Open Payload with Arduino IDE
+16. Click tools and select Board: Digispark (Default - 16.5 Mhz
+17. Click Upload
+18. Connect the BadUSB cable when the Arduino IDE says to connect it.
+
+![Sketch](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/upsketch.jpg)
 
 ## Payloads
 
