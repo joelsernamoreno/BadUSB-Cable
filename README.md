@@ -209,7 +209,7 @@ AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
 13. Search and Install: Digistump AVR Boards
 14. Download payloads: https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
 15. Open Payload with Arduino IDE
-16. Click tools and select Board: Digispark (Default - 16.5 Mhz
+16. Click tools and select Board: Digispark (Default - 16.5 Mhz)
 17. Click Upload
 18. Connect the BadUSB cable when the Arduino IDE says to connect it.
 
