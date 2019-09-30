@@ -7,6 +7,16 @@ BadUSB cable based on Attiny85 microcontroller (gerbers, design and schematic).
 
 **PCB design:** Rev0: Jorge Mata, Rev1 and Rev2: Ignacio Díaz Álvarez
 
+The developers and collaborators of this project do not earn money with this. 
+You can invite me for a coffee to further develop Low-Cost hacking devices. If you don't invite me for a coffee, nothing happens, I will continue developing devices.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
+
+**Update:**
+Rev3 is in testing, soon I will upload the gerbers to this repository
+
+We are currently trying to get Evil Crow Cable sold through a distributor. Coming soon...
+
 1. History
 2. Acknowledgement
 3. Electronic components
