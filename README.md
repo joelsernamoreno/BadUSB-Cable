@@ -1,6 +1,8 @@
 # BadUSB-Cable (Evil Crow Cable)
 BadUSB cable based on Attiny85 microcontroller (documentation, gerbers, design and schematic).
 
+![EvilCrow](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Logo1.png)
+
 **Idea:** Joel Serna & Ernesto Sánchez
 
 **Development and implementation:** Joel Serna & Ernesto Sánchez
@@ -120,15 +122,15 @@ TBD
 
 * Development kit (September 2019)
 
-TBD
+![Dev kits](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/dev-kits.jpg)
 
 * BadUSB Cable Rev3 (September 2019)
 
-TBD
+![Rev3 cable](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev3-cable.jpg)
 
 * Development kits and complete cables for Navaja Negra Conference (October 2019)
 
-TBD
+![NN](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/NN.jpg)
 
 * Rev3.1 of BadUSB Cable design (October 2019)
 
@@ -203,12 +205,12 @@ This version is easier to weld on a mobile cable.
 
 TBD
 
-## Rev3.1 (Holed D+ and D- removed)
+## Rev3.1 (Holes D+ and D- removed)
 This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes should NOT be soldered and Rev3 can be confusing.
 In Rev3.1 design these holes are eliminated, only VCC and GND are available.
 Thanks to @_MG_ for recommending this solution.
 
-TBD
+![Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Rev3.1-Dim.jpg)
 
 ## Import the project
 There is a custom built library footprints for this project, remember to import it.
@@ -244,9 +246,49 @@ TBD
 
 ## Assemble development kit
 
-TBD
+1. Development kit
+
+![Development kit](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kit.jpg)
+
+2. Add tin on the GND pin of the USB connector
+
+![Tin USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-usb-connector-1.jpg)
+
+3. Insert the PCB as shown in the photo
+
+![Insert PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/insert-pcb.jpg)
+
+4. Add more tin on the GND pin of the USB connector
+
+![Tin USB connector 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-usb-connector-2.jpg)
+
+5. Add tin on all pins of the USB connector (VCC, D+, D- ...)
+
+![Final USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-usb-connector.jpg)
+
+6. Take a mobile phone cable and cut the male USB connector. Then you have to strip the wires as shown in the photo. **NOTE:** STRIP CABLES VCC and GND ONLY!!!
+
+![Strip wires](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/strip-wires.jpg)
+
+7. Add tin to VCC and GND pins.
+
+![Tin VCC GND pin](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-vcc-gnd-pin.jpg)
+
+8. Welding the VCC and GND cables to the VCC and GND pins on the PCB. **NOTE:** Pins D+ and D- are free, you don't have to weld this!!!
+
+![Welding VCC GND](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Welding-VCC-GND.jpg)
+
+![VCC GND only](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/only.jpg)
+
+9. Add adhesive tape for compact cables and a robust result
+
+![Kit 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kitC-1.jpg)
+
+![Kit 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kitC-2.jpg)
 
 ## Hardware needed to burn the bootloader
+
+**NOTE:** If you have a development kit or a complete cable obtained in Navaja Negra Conference... it is not necessary to download and burn the bootloader, continue with the following steps!!!
 
 To burn the bootloader you can use diferent techniques, for the one we use you will need:
 
@@ -266,6 +308,8 @@ To burn the bootloader you can use diferent techniques, for the one we use you w
 * Use "t85_default.hex" for the bootloader
 
 ## Burning bootloader
+
+![Bootloader](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/bootloader.jpg)
 
 You must use the correct fuses bit for the bootloader:
 
@@ -308,14 +352,14 @@ https://github.com/micronucleus/micronucleus
 
 1. Create the 49-micronucleus.rules file in the /etc/udev/rules.d/ directory.
 2. Copy the contents to the file you just created: https://github.com/micronucleus/micronucleus/wiki/Ubuntu-Linux
-3. Restart the computer or run the following command to update the UDEV rules: udevadm control --reload-rules
+3. Reboot the computer or run the following command to update the UDEV rules: udevadm control --reload-rules
 4. Download Micronucleus with the following command: git clone https://github.com/micronucleus/micronucleus.git
 5. Access the Micronucleus/Commandline directory with the following command: cd micronucleus/commandline
 6. Compile with the following command: make
 7. Access the Micronucleus/Commandline directory with the following command: cd ~/.arduino15/packages/digistump/tools/micronucleus/2.0a4/
 8. Create a backup of Micronucleus with following command: mv micronucleus micronucleus.old
 9. Copy the latest version of Micronucleus to this directory with the following command: cp ~/PATH/micronucleus/commandline/micronucleus .
-10. Restart
+10. Reboot
 
 ## Upload Payloads
 
