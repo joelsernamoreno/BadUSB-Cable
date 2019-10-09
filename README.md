@@ -358,9 +358,9 @@ https://github.com/micronucleus/micronucleus
 2. Copy the contents to the file you just created: https://github.com/micronucleus/micronucleus/wiki/Ubuntu-Linux
 3. Reboot the computer or run the following command to update the UDEV rules: udevadm control --reload-rules
 4. Download Micronucleus with the following command: git clone https://github.com/micronucleus/micronucleus.git
-5. Access the Micronucleus/Commandline directory with the following command: cd micronucleus/commandline
+5. Access the micronucleus/commandline directory with the following command: cd micronucleus/commandline
 6. Compile with the following command: make
-7. Access the Micronucleus/Commandline directory with the following command: cd ~/.arduino15/packages/digistump/tools/micronucleus/2.0a4/
+7. Access the .arduino15/packages/digistump/tools/micronucleus/2.0a4 directory with the following command: cd ~/.arduino15/packages/digistump/tools/micronucleus/2.0a4/
 8. Create a backup of Micronucleus with following command: mv micronucleus micronucleus.old
 9. Copy the latest version of Micronucleus to this directory with the following command: cp ~/PATH/micronucleus/commandline/micronucleus .
 10. Reboot
