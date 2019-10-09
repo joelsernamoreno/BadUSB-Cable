@@ -14,9 +14,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**Update:**
-1. Rev3 is in testing, soon I will upload the gerbers to this repository.
-2. We are currently trying to get Evil Crow Cable sold through a distributor. Coming soon...
+**We are currently trying to get Evil Crow Cable sold through a distributor. Coming soon...**
 
 **Summary:**
 1. History
@@ -138,7 +136,7 @@ This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes s
 In Rev3.1 design these holes are eliminated, only VDD and GND are available.
 Thanks to @_MG_ for recommending this solution.
 
-![Render Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/render-rev31.png)
+![Render Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/render-rev31.png)
 
 # Acknowledgement
 
@@ -210,7 +208,7 @@ This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes s
 In Rev3.1 design these holes are eliminated, only VDD and GND are available.
 Thanks to @_MG_ for recommending this solution.
 
-![Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev31-dim.jpg)
+![Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev31-dim.png)
 
 ## Import the project
 There is a custom built library footprints for this project, remember to import it.
@@ -242,6 +240,8 @@ You can order the necessary components with the gerber files in the gerber direc
 ## Pinout Rev3.1
 
 * **Black:** GND
+* **Green:** D+
+* **White:** D-
 * **Red:** VDD
 
 ![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-31-1.jpg)
@@ -262,7 +262,7 @@ You can order the necessary components with the gerber files in the gerber direc
 
 ![Insert PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/insert-pcb.jpg)
 
-4. Add more tin on the GND pin of the USB connector
+4. Add more tin on the VDD pin of the USB connector
 
 ![Tin USB connector 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-usb-connector-2.jpg)
 
