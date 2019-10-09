@@ -118,7 +118,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 * Rev3 of BadUSB cable design (September 2019):
 
-TBD
+![Render Rev3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/render-rev3.png)
 
 * Development kit (September 2019)
 
@@ -135,10 +135,10 @@ TBD
 * Rev3.1 of BadUSB Cable design (October 2019)
 
 This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes should NOT be soldered and Rev3 can be confusing.
-In Rev3.1 design these holes are eliminated, only VCC and GND are available.
+In Rev3.1 design these holes are eliminated, only VDD and GND are available.
 Thanks to @_MG_ for recommending this solution.
 
-TBD
+![Render Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/render-rev31.png)
 
 # Acknowledgement
 
@@ -203,14 +203,14 @@ Implementation of BadUSB cable based on Attiny85 microcontroller. This version h
 ## Rev3 (BadUSB cable version easier to weld)
 This version is easier to weld on a mobile cable.
 
-TBD
+![Rev3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev3-dim.png)
 
 ## Rev3.1 (Holes D+ and D- removed)
 This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes should NOT be soldered and Rev3 can be confusing.
-In Rev3.1 design these holes are eliminated, only VCC and GND are available.
+In Rev3.1 design these holes are eliminated, only VDD and GND are available.
 Thanks to @_MG_ for recommending this solution.
 
-![Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Rev3.1-Dim.jpg)
+![Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev31-dim.jpg)
 
 ## Import the project
 There is a custom built library footprints for this project, remember to import it.
@@ -235,14 +235,18 @@ You can order the necessary components with the gerber files in the gerber direc
 * **White:** D-
 * **Red:** VDD
 
-TBD
+![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-rev3-1.jpg)
+
+![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-rev3-2.jpg)
 
 ## Pinout Rev3.1
 
 * **Black:** GND
 * **Red:** VDD
 
-TBD
+![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-31-1.jpg)
+
+![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-31-2.jpg)
 
 ## Assemble development kit
 
@@ -250,7 +254,7 @@ TBD
 
 ![Development kit](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kit.jpg)
 
-2. Add tin on the GND pin of the USB connector
+2. Add tin on the VDD pin of the USB connector
 
 ![Tin USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-usb-connector-1.jpg)
 
@@ -262,21 +266,21 @@ TBD
 
 ![Tin USB connector 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-usb-connector-2.jpg)
 
-5. Add tin on all pins of the USB connector (VCC, D+, D- ...)
+5. Add tin on all pins of the USB connector (GND, D+, D- ...)
 
 ![Final USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-usb-connector.jpg)
 
-6. Take a mobile phone cable and cut the male USB connector. Then you have to strip the wires as shown in the photo. **NOTE:** STRIP CABLES VCC and GND ONLY!!!
+6. Take a mobile phone cable and cut the male USB connector. Then you have to strip the wires as shown in the photo. **NOTE:** STRIP CABLES VDD and GND ONLY!!!
 
 ![Strip wires](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/strip-wires.jpg)
 
-7. Add tin to VCC and GND pins.
+7. Add tin to VDD and GND pins.
 
 ![Tin VCC GND pin](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/tin-vcc-gnd-pin.jpg)
 
-8. Welding the VCC and GND cables to the VCC and GND pins on the PCB. **NOTE:** Pins D+ and D- are free, you don't have to weld this!!!
+8. Welding the VDD and GND cables to the VDD and GND pins on the PCB. **NOTE:** Pins D+ and D- are free, you don't have to weld this!!!
 
-![Welding VCC GND](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Welding-VCC-GND.jpg)
+![Welding VDD GND](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Welding-VCC-GND.jpg)
 
 ![VCC GND only](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/only.jpg)
 
