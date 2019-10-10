@@ -38,10 +38,10 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 	* Pinout Rev2
 	* Pinout Rev3
 	* Pinout Rev3.1
-	* Assemble Development Kit
 	* Hardware need to burn the bootloader
 	* Download bootloader
 	* Burning bootloader
+	* Assemble Development Kit
 	* Basic requirements
 	* Installation of Digispark USB Driver (Windows)
 	* Installation and update of Micronucleus Windows (not tested)
@@ -248,6 +248,41 @@ You can order the necessary components with the gerber files in the gerber direc
 
 ![Pinout](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/pinout-31-2.jpg)
 
+## Hardware needed to burn the bootloader
+
+**NOTE:** If you have a development kit or a complete cable obtained in Navaja Negra Conference... it is not necessary to download and burn the bootloader, continue with the following steps!!!
+
+To burn the bootloader you can use diferent techniques, for the one we use you will need:
+
+* TEST CLIP SOIC 8 (2 X 4)  
+* TINY AVR PROGRAMMER 
+
+![clip](https://media.digikey.com/Photos/Pomona%20Photos/5250.JPG)
+![programmer](https://media.digikey.com/Photos/Sparkfun%20Elec%20%20Photos/MFG_PGM-11801_sml.jpg)
+
+
+## Download bootloader
+
+* Download Micronucleus bootloader for ATTINY85: https://github.com/micronucleus
+
+* You can find the bootloader file at micronucleus\firmware\releases folder
+
+* Use "t85_default.hex" for the bootloader (Release 2.04)
+
+## Burning bootloader
+
+![Bootloader](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/bootloader.jpg)
+
+You must use the correct fuses bit for the bootloader:
+
+* **Extended:** 0xFE
+* **High:** 0xDD
+* **Low:** 0xE1
+
+AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
+
+![AVRDUDESS](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/avrdudess.png)
+
 ## Assemble development kit
 
 1. Development kit
@@ -289,41 +324,6 @@ You can order the necessary components with the gerber files in the gerber direc
 ![Kit 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kitC-1.jpg)
 
 ![Kit 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/kitC-2.jpg)
-
-## Hardware needed to burn the bootloader
-
-**NOTE:** If you have a development kit or a complete cable obtained in Navaja Negra Conference... it is not necessary to download and burn the bootloader, continue with the following steps!!!
-
-To burn the bootloader you can use diferent techniques, for the one we use you will need:
-
-* TEST CLIP SOIC 8 (2 X 4)  
-* TINY AVR PROGRAMMER 
-
-![clip](https://media.digikey.com/Photos/Pomona%20Photos/5250.JPG)
-![programmer](https://media.digikey.com/Photos/Sparkfun%20Elec%20%20Photos/MFG_PGM-11801_sml.jpg)
-
-
-## Download bootloader
-
-* Download Micronucleus bootloader for ATTINY85: https://github.com/micronucleus
-
-* You can find the bootloader file at micronucleus\firmware\releases folder
-
-* Use "t85_default.hex" for the bootloader (Release 2.04)
-
-## Burning bootloader
-
-![Bootloader](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/bootloader.jpg)
-
-You must use the correct fuses bit for the bootloader:
-
-* **Extended:** 0xFE
-* **High:** 0xDD
-* **Low:** 0xE1
-
-AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
-
-![AVRDUDESS](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/avrdudess.png)
 
 ## Basic requirements
 
