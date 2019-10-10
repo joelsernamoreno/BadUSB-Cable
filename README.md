@@ -307,9 +307,9 @@ To burn the bootloader you can use diferent techniques, for the one we use you w
 
 * Download Micronucleus bootloader for ATTINY85: https://github.com/micronucleus
 
-* You can find the bootloader file at micronucleus-t85\firmware\releases folder
+* You can find the bootloader file at micronucleus\firmware\releases folder
 
-* Use "t85_default.hex" for the bootloader
+* Use "t85_default.hex" for the bootloader (Release 2.04)
 
 ## Burning bootloader
 
