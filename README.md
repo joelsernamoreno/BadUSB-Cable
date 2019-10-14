@@ -48,6 +48,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 	* Installation and update of Micronucleus Ubuntu
 	* Upload Payloads
 	* Payloads
+6. VM for dummies
 	
 	
 # History
@@ -327,20 +328,29 @@ AVRISP MKll In System Programmer and AVR Studio software for burning bootloader
 
 ## Basic requirements
 
-1. Download Arduino IDE: https://www.arduino.cc/en/Main/Software
-2. Install drivers (Windows): https://raw.githubusercontent.com/digistump/DigistumpArduino/master/tools/micronucleus-2.0a4-win.zip
-3. Install libusb y UDEV rules (Linux): http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting
-4. Download DigisparkKeyboard library with multiple layout support: https://github.com/ernesto-xload/DigisparkKeyboard
-5. Unzip library in Arduino/libraries/directory
-6. Edit DigiKeyboard.h file and uncomment #define kbd_es_es
-7. Change #define kbd_es_es for your keyboard layout and save the changes
-8. Run Arduino IDE
-9. Click File and then Preferences
-10. Add the JSON URL to the Additional Boards Manager text box: http://digistump.com/package_digistump_index.json
-11. Click OK
-12. Click Tools > Board > Board Manager
-13. Search and Install: Digistump AVR Boards
-12. Close the Arduino IDE
+1. Update Ubuntu packages with the following commands:
+	* sudo apt update
+	* sudo apt upgrade
+2. Download Arduino IDE: https://www.arduino.cc/en/Main/Software
+3. Install drivers (Windows): https://raw.githubusercontent.com/digistump/DigistumpArduino/master/tools/micronucleus-2.0a4-win.zip
+4. Install libusb and lib32stdc with the following commands:
+	* sudo apt install libusb-dev
+	* sudo apt install lib32stdc++6
+5. Install build-essential with the following command:
+	* sudo apt install build-essential
+6. Download DigisparkKeyboard library with multiple layout support: https://github.com/ernesto-xload/DigisparkKeyboard
+7. Unzip library in Arduino/libraries/directory
+8. Edit DigiKeyboard.h file and uncomment #define kbd_es_es
+9. Change #define kbd_es_es for your keyboard layout and save the changes
+10. Run Arduino IDE with the following commands (**NOTE:** Don't install the Arduino IDE, just run it!)
+	* cd arduino-1.X.XX-linux64/arduino-1.X.XX/ (example: cd arduino-1.8.10-linux64/arduino-1.8.10/)
+	* ./arduino (**NOTE:** Do not run the Arduino IDE with root permissions!)
+11. Click File and then Preferences
+12. Add the JSON URL to the Additional Boards Manager text box: http://digistump.com/package_digistump_index.json
+13. Click OK
+14. Click Tools > Board > Board Manager
+15. Search and Install: Digistump AVR Boards
+16. Close the Arduino IDE
 
 ## Installation of Digispark USB Driver (Windows)
 
@@ -368,7 +378,9 @@ https://github.com/micronucleus/micronucleus
 ## Upload Payloads
 
 1. Download payloads: https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
-2. Run Arduino IDE
+2. Run Arduino IDE with the following commands (**NOTE:** Don't install the Arduino IDE, just run it!)
+	* cd arduino-1.X.XX-linux64/arduino-1.X.XX/ (example: cd arduino-1.8.10-linux64/arduino-1.8.10/)
+	* ./arduino (**NOTE:** Do not run the Arduino IDE with root permissions!)
 3. Open Payload with Arduino IDE
 4. Click tools and select Board: Digispark (Default - 16.5 Mhz)
 5. Click Upload
@@ -383,3 +395,31 @@ https://github.com/micronucleus/micronucleus
 You can get payloads in the following repository:
 
 https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispark
+
+# VM for dummies 
+
+1. Download and install VMWare: https://www.vmware.com/
+2. Run VMware
+3. Install VMWare-Tools: https://vitux.com/how-to-install-vmware-tools-in-ubuntu/
+4. Add serial port with the following steps:
+	* Click on VM -> Settings
+	* Click on +Add...
+	* Select serial port
+	* Click on finish
+5. Add USB controller with the following steps:
+	* Click on VM -> Settings
+	* Click on +Add...
+	* Select USB controller
+	* Click on finish
+6. Run Ubuntu
+7. Enter password (password: evilcrowcable)
+8. Open a terminal (CTRL+ALT+T)
+9. Run Arduino IDE with the following commands
+	* cd arduino-1.8.10-linux64/arduino-1.8.10/
+	* ./arduino (**NOTE:** Do not run the Arduino IDE with root permissions!)
+10. Open a payload /home/evilcrowcable/attiny85_digispark/
+11. Click tools and select Board: Digispark (Default - 16.5 Mhz)
+12. Click Upload
+13. Connect the BadUSB cable when the Arduino IDE says to connect it.
+
+**Demo video:** https://twitter.com/JoelSernaMoreno/status/1181296289323130882?s=19	
