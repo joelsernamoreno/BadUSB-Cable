@@ -408,11 +408,17 @@ https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispar
 	* Click on +Add...
 	* Select serial port
 	* Click on finish
+
+![Serial Port](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/serial-port.png)
+
 7. Add USB controller with the following steps:
 	* Click on VM -> Settings
 	* Click on +Add...
 	* Select USB controller
 	* Click on finish
+
+![USB Controller](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/usb-controller.png)
+
 8. Run Ubuntu VM
 9. Enter password (password: evilcrowcable)
 10. Open a terminal (CTRL+ALT+T)
