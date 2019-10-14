@@ -398,28 +398,30 @@ https://github.com/joelsernamoreno/badusb_examples/tree/master/attiny85_digispar
 
 # VM for dummies 
 
-1. Download and install VMWare: https://www.vmware.com/
-2. Run VMware
-3. Install VMWare-Tools: https://vitux.com/how-to-install-vmware-tools-in-ubuntu/
-4. Add serial port with the following steps:
+1. Download VM: https://mega.nz/#!dtBmgQIY!4iiRBmrM1v42V-EDzVBr9dvOznbAHK-9jp3wK9BgMlo
+2. Download and install VMWare: https://www.vmware.com/
+3. Run VMware
+4. Import Ubuntu.ova
+5. Install VMWare-Tools: https://vitux.com/how-to-install-vmware-tools-in-ubuntu/
+6. Add serial port with the following steps:
 	* Click on VM -> Settings
 	* Click on +Add...
 	* Select serial port
 	* Click on finish
-5. Add USB controller with the following steps:
+7. Add USB controller with the following steps:
 	* Click on VM -> Settings
 	* Click on +Add...
 	* Select USB controller
 	* Click on finish
-6. Run Ubuntu
-7. Enter password (password: evilcrowcable)
-8. Open a terminal (CTRL+ALT+T)
-9. Run Arduino IDE with the following commands
+8. Run Ubuntu VM
+9. Enter password (password: evilcrowcable)
+10. Open a terminal (CTRL+ALT+T)
+11. Run Arduino IDE with the following commands:
 	* cd arduino-1.8.10-linux64/arduino-1.8.10/
 	* ./arduino (**NOTE:** Do not run the Arduino IDE with root permissions!)
-10. Open a payload /home/evilcrowcable/attiny85_digispark/
-11. Click tools and select Board: Digispark (Default - 16.5 Mhz)
-12. Click Upload
-13. Connect the BadUSB cable when the Arduino IDE says to connect it.
+12. Open a payload /home/evilcrowcable/attiny85_digispark/
+13. Click tools and select Board: Digispark (Default - 16.5 Mhz)
+14. Click Upload
+15. Connect the BadUSB cable when the Arduino IDE says to connect it.
 
 **Demo video:** https://twitter.com/JoelSernaMoreno/status/1181296289323130882?s=19	
