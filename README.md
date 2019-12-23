@@ -14,7 +14,12 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E614OA5)
 
-**We are currently trying to get Evil Crow Cable sold through a distributor. Coming soon...**
+**New repository for the final version with the data line enabled:** https://github.com/joelsernamoreno/EvilCrow-Cable
+
+**For Sale at:**
+
+* [Aliexpress Shop](https://es.aliexpress.com/item/4000358004044.html)
+* [Tindie Shop](https://www.tindie.com/products/aprbrother/evil-crow-cable/)
 
 **Summary:**
 1. History
