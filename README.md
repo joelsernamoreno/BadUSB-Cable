@@ -220,6 +220,24 @@ Thanks to @_MG_ for recommending this solution.
 ![ESP8285 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-pcb3.jpg)
 
 
+* **Third PoC - ESP32-S2 (September 2022)**
+
+![ESP32-S2 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-poc1.jpg)
+
+![ESP32-S2 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-poc2.jpg)
+
+![ESP32-S2 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-poc3.jpg)
+
+![ESP32-S2 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-poc4.jpg)
+
+
+* ** First PCB - ESP32-S2 (September 2022)**
+
+![ESP32-S2 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-pcb1.jpg)
+
+![ESP32-S2 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-pcb2.jpg) 
+
+
 # Collaborators
 
 **Ignacio Diaz & Forensic Security:**
