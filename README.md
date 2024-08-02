@@ -16,7 +16,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 	
 # Evil Crow Cable
 
-* ?**Start of the project and first BadUSB cable on breadboard (November 2017)**
+* **Start of the project and first BadUSB cable on breadboard (November 2017)**
 
 ![BadUSB Cable Breadboard](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-breadboard.jpg)
 
