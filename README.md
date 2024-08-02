@@ -12,7 +12,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 1. Evil Crow Cable
 2. Evil Crow Cable Pro
 3. Evil Crow Cable Wind
-4. Acknowledgement
+4. Collaborators
 	
 # Evil Crow Cable
 
@@ -195,21 +195,55 @@ Thanks to @_MG_ for recommending this solution.
 **PROJECT REPOSITORY:** https://github.com/joelsernamoreno/EvilCrowCable-Pro
 
 
-# Acknowledgement
+# Evil Crow Cable Wind
 
-**PCB design first version:** Jorge Mata & Innovart
+* **First PoC - Atmega32U4 and ESP8285 (May 2020)**
 
-	* Jorge Mata: @jor_mata
+![32u4 ESP8285 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-esp8285-poc.jpg)
 
-	* Innovart: @innovart_cc
 
-	* https://innovart.cc
+* **Second PoC - ESP8285 (July 2020)**
 
-**PCB design final version:** Ignacio Díaz & ForensicSecurity
+![ESP8285 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-poc1.jpg)
 
-	* Ignacio Díaz: @Ignacio Díaz Álvarez
+![ESP8285 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-poc2.jpg)
+
+![ESP8285 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-poc3.jpg)
+
+
+* **First PCBs - ESP8285 (August 2020)**
+
+![ESP8285 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-pcb1.jpg)
+
+![ESP8285 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-pcb2.jpg)
+
+![ESP8285 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp8285-pcb3.jpg)
+
+
+# Collaborators
+
+**Ignacio Diaz & Forensic Security:**
+
+	* Ignacio Díaz: @Nacon_96
 
 	* Forensic & Security: @ForensicSec
 
 	* https://forensic-security.com
 
+**April Brother:**
+
+        * April Brother: @aprbrother
+
+        * https://www.aprbrother.com
+
+**Ernesto Xload:**
+
+        * Ernesto Xload: @ernesto_xload
+
+**Jorge Mata:**
+
+        * Jorge Mata: @jor_mata
+
+        * Innovart: @innovart_cc
+
+        * https://innovart.cc
