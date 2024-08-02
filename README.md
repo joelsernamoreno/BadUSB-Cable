@@ -16,13 +16,13 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 	
 # Evil Crow Cable
 
-* Start of the project and first BadUSB cable on breadboard (November 2017):
+* ?**Start of the project and first BadUSB cable on breadboard (November 2017)**
 
 ![BadUSB Cable Breadboard](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-breadboard.jpg)
 
 
 
-* First BadUSB cable with USB connector (December 2017):
+* **First BadUSB cable with USB connector (December 2017)**
 
 ![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-usb-1.jpg)
 
@@ -31,13 +31,13 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-case.jpg)
 
 
-* Finished proof of concept (January 2018):
+* **Finished proof of concept (January 2018)**
 
 ![BadUSB Cable final test](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-final-test.jpg)
 
 
 
-* Technical presentation of BadUSB cable and first PCB design (Rev0) presented at Hackplayers Conference (February 2018):
+* **Technical presentation of BadUSB cable and first PCB design (Rev0) presented at Hackplayers Conference (February 2018)**
 
 ![Design 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-1.png)
 
@@ -45,13 +45,13 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 
 
-* Rev1 of BadUSB cable design (January 2019):
+* **Rev1 of BadUSB cable design (January 2019)**
 
 ![Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-1_6*12mm.jpeg)
 
 
 
-* Rev2 of BadUSB cable design (May 2019):
+* **Rev2 of BadUSB cable design (May 2019)**
 
 ![Rev2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-2_6*10mm.png)
 
@@ -60,7 +60,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![Render 2 Rev2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-3-graph2.jpg)
 
 
-* First PCBs (July 2019):
+* **First PCBs (July 2019)**
 
 ![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-pcbs-3.jpeg)
 
@@ -72,7 +72,7 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 
 
-* BadUSB Cable Rev2 (August 2019):
+* **BadUSB Cable Rev2 (August 2019)**
 
 ![0](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable0.jpeg)
 
@@ -82,31 +82,31 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 
 
 
-* Rev3 of BadUSB cable design (September 2019):
+* **Rev3 of BadUSB cable design (September 2019)**
 
 ![Render Rev3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/render-rev3.png)
 
 
 
-* Development kit (September 2019)
+* **Development kit (September 2019)**
 
 ![Dev kits](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/dev-kits.jpg)
 
 
 
-* BadUSB Cable Rev3 (September 2019)
+* **BadUSB Cable Rev3 (September 2019)**
 
 ![Rev3 cable](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev3-cable.jpg)
 
 
 
-* Development kits and complete cables for Navaja Negra Conference (October 2019)
+* **Development kits and complete cables for Navaja Negra Conference (October 2019)**
 
 ![NN](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/NN.jpg)
 
 
 
-* Rev3.1 of BadUSB Cable design (October 2019)
+* **Rev3.1 of BadUSB Cable design (October 2019)**
 
 This version is a solution for Rev3. Rev3 has the holes D- and D+, these holes should NOT be soldered and Rev3 can be confusing.
 In Rev3.1 design these holes are eliminated, only VDD and GND are available.
@@ -115,9 +115,9 @@ Thanks to @_MG_ for recommending this solution.
 ![Render Rev3.1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/render-rev31.png)
 
 
-* Evil Crow Cable (November 2019)
+* **Evil Crow Cable (November 2019)**
 
-![Evil Crow Cable 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/evilcrowcable1.jpg)
+![Evil Crow Cable 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/evilcrowcable1.jpeg)
 
 ![Evil Crow Cable 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/evilcrowcable2.jpg)
 
