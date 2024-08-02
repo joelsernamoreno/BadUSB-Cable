@@ -160,6 +160,22 @@ Thanks to @_MG_ for recommending this solution.
 ![RP2040 PoC Rev2 4](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-4.jpg)
 
 
+* **Second PoC Rev3 - RP2040 (August 2023)**
+
+![RP2040 PoC Rev3 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev3-1.jpg)
+
+![RP2040 PoC Rev3 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev3-2.jpg)
+
+![RP2040 PoC Rev3 3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev3-3.jpg)
+
+
+* **Second PCB - RP2040 (August 2023)**
+
+![RP2040 PCB 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-pcb-1.jpg)
+
+![RP2040 PCB 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-pcb-2.jpg)
+
+
 # Acknowledgement
 
 **PCB design first version:** Jorge Mata & Innovart
