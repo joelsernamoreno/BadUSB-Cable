@@ -21,7 +21,6 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![BadUSB Cable Breadboard](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-breadboard.jpg)
 
 
-
 * **First BadUSB cable with USB connector (December 2017)**
 
 ![BadUSB Cable with USB connector](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-usb-1.jpg)
@@ -36,7 +35,6 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![BadUSB Cable final test](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/badusb-cable-final-test.jpg)
 
 
-
 * **Technical presentation of BadUSB cable and first PCB design (Rev0) presented at Hackplayers Conference (February 2018)**
 
 ![Design 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-1.png)
@@ -44,11 +42,9 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![Design 1-1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/first-version-2.jpg)
 
 
-
 * **Rev1 of BadUSB cable design (January 2019)**
 
 ![Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/revision-1_6*12mm.jpeg)
-
 
 
 * **Rev2 of BadUSB cable design (May 2019)**
@@ -71,7 +67,6 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![First PCBs](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/multi3.jpeg)
 
 
-
 * **BadUSB Cable Rev2 (August 2019)**
 
 ![0](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable0.jpeg)
@@ -81,11 +76,9 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/finalcable2.jpeg)
 
 
-
 * **Rev3 of BadUSB cable design (September 2019)**
 
 ![Render Rev3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/render-rev3.png)
-
 
 
 * **Development kit (September 2019)**
@@ -93,17 +86,14 @@ You can invite me for a coffee to further develop Low-Cost hacking devices. If y
 ![Dev kits](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/dev-kits.jpg)
 
 
-
 * **BadUSB Cable Rev3 (September 2019)**
 
 ![Rev3 cable](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rev3-cable.jpg)
 
 
-
 * **Development kits and complete cables for Navaja Negra Conference (October 2019)**
 
 ![NN](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/NN.jpg)
-
 
 
 * **Rev3.1 of BadUSB Cable design (October 2019)**
@@ -123,6 +113,35 @@ Thanks to @_MG_ for recommending this solution.
 
 **PROJECT REPOSITORY:** https://github.com/joelsernamoreno/EvilCrow-Cable
 
+
+# Evil Crow Cable Pro
+
+* **First test PCB with USB Hub for testing microcontrollers (March 2020)**
+
+![Test Hub](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/test-hub.jpg)
+
+
+* **First PoC - Atmega32U4 and Hub USB (May 2020)**
+
+![32u4 Hub PoC 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-poc1.jpg)
+
+![32u4 Hub PoC 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-poc2.jpg)
+
+
+* **Final PoC - Atmega32U4 and Hub USB (June 2020)**
+
+![32u4 Hub Final 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-final1.jpg)
+
+![32u4 Hub Final 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-final2.jpg)
+
+![32u4 Hub Final 3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-final3.jpg)
+
+
+* **First PCB - Atmega32U4 and Hub USB (September 2020)**
+
+![32u4 Hub PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-pcb1.jpg)
+
+![32u4 Hub PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-pcb2.jpg)
 
 # Acknowledgement
 
