@@ -250,18 +250,18 @@ Thanks to @_MG_ for recommending this solution.
 
 **April Brother:**
 
-        * April Brother: @aprbrother
+	* April Brother: @aprbrother
 
-        * https://www.aprbrother.com
+	* https://www.aprbrother.com
 
 **Ernesto Xload:**
 
-        * Ernesto Xload: @ernesto_xload
+	* Ernesto Xload: @ernesto_xload
 
 **Jorge Mata:**
 
-        * Jorge Mata: @jor_mata
+	* Jorge Mata: @jor_mata
 
-        * Innovart: @innovart_cc
+	* Innovart: @innovart_cc
 
-        * https://innovart.cc
+	* https://innovart.cc
