@@ -231,7 +231,7 @@ Thanks to @_MG_ for recommending this solution.
 ![ESP32-S2 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-poc4.jpg)
 
 
-* ** First PCB - ESP32-S2 (September 2022)**
+* **First PCB - ESP32-S2 (September 2022)**
 
 ![ESP32-S2 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-pcb1.jpg)
 
