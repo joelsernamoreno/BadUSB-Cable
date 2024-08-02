@@ -144,12 +144,12 @@ Thanks to @_MG_ for recommending this solution.
 ![32u4 Hub PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-pcb2.jpg)
 
 
-* **Second PoC Rev1 - RP2040 (June 2023)**
+* **Second PoC Rev1 - RP2040 (April 2023)**
 
 ![RP2040 PoC Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev1.jpg)
 
 
-* **Second PoC Rev2 - RP2040 (July 2023)**
+* **Second PoC Rev2 - RP2040 (April 2023)**
 
 ![RP2040 PoC Rev2 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-1.jpg)
 
@@ -160,7 +160,7 @@ Thanks to @_MG_ for recommending this solution.
 ![RP2040 PoC Rev2 4](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-4.jpg)
 
 
-* **Second PoC Rev3 - RP2040 (August 2023)**
+* **Second PoC Rev3 - RP2040 (May 2023)**
 
 ![RP2040 PoC Rev3 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev3-1.jpg)
 
@@ -169,11 +169,30 @@ Thanks to @_MG_ for recommending this solution.
 ![RP2040 PoC Rev3 3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev3-3.jpg)
 
 
-* **Second PCB - RP2040 (August 2023)**
+* **Second PCB - RP2040 (June 2023)**
 
 ![RP2040 PCB 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-pcb-1.jpg)
 
 ![RP2040 PCB 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-pcb-2.jpg)
+
+
+* **Second PoC Rev4 - RP2040 and USB Host pads (July 2023)**
+
+![RP2040 Host Rev4](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev4.png)
+
+
+* **Final PCB - RP2040 and USB Host pads (August 2023)**
+
+![RP2040 Host Final](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-final1.jpg)
+
+![RP2040 Host Final](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-final2.jpg)
+
+
+* **Evil Crow Cable Pro (August 2023)**
+
+![Evil Crow Cable Pro](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/evilcrowcablepro.jpeg)
+
+**PROJECT REPOSITORY:** https://github.com/joelsernamoreno/EvilCrowCable-Pro
 
 
 # Acknowledgement
