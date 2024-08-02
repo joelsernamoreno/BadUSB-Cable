@@ -143,6 +143,23 @@ Thanks to @_MG_ for recommending this solution.
 
 ![32u4 Hub PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-pcb2.jpg)
 
+
+* **Second PoC Rev1 - RP2040 (June 2023)**
+
+![RP2040 PoC Rev1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev1.jpg)
+
+
+* **Second PoC Rev2 - RP2040 (July 2023)**
+
+![RP2040 PoC Rev2 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-1.jpg)
+
+![RP2040 PoC Rev2 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-2.jpg)
+
+![RP2040 PoC Rev2 3](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-3.jpg)
+
+![RP2040 PoC Rev2 4](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/rp2040-rev2-4.jpg)
+
+
 # Acknowledgement
 
 **PCB design first version:** Jorge Mata & Innovart
