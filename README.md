@@ -1,7 +1,7 @@
 # BadUSB-Cable
 BadUSB cable project
 
-![EvilCrow](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/Logo1.png)
+![EvilCrow](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/logo.png)
 
 The developers and collaborators of this project do not earn money with this. 
 You can invite me for a coffee to further develop Low-Cost hacking devices. If you don't invite me for a coffee, nothing happens, I will continue developing devices.
