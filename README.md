@@ -238,6 +238,27 @@ Thanks to @_MG_ for recommending this solution.
 ![ESP32-S2 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/esp32s2-pcb2.jpg) 
 
 
+* **Final PoC Rev 1 - ESP32-C3 inside a USB Type-C connector (June 2024)**
+
+![ESP32-C3 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-poc-rev1-0.png)
+
+![ESP32-C3 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-poc-rev1-1.png)
+
+
+* **Final PCB Rev 1 - ESP32-C3 inside a USB Type-C connector (July 2024)**
+
+![ESP32-C3 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-pcb-rev1-0.jpg)
+
+![ESP32-C3 PCB](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-pcb-rev1-1.jpg)
+
+
+* **Final PoC Rev 2 - ESP32-S3 inside a USB Type-C connector (August 2024)**
+
+![ESP32-S3 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-poc-rev2-0.png)
+
+![ESP32-S3 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-poc-rev2-1.png)
+
+
 # Collaborators
 
 **Ignacio Diaz & Forensic Security:**
