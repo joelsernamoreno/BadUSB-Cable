@@ -121,14 +121,7 @@ Thanks to @_MG_ for recommending this solution.
 ![Test Hub](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/test-hub.jpg)
 
 
-* **First PoC - Atmega32U4 and Hub USB (May 2020)**
-
-![32u4 Hub PoC 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-poc1.jpg)
-
-![32u4 Hub PoC 2](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-poc2.jpg)
-
-
-* **Final PoC - Atmega32U4 and Hub USB (June 2020)**
+* **First PoC - Atmega32U4 and Hub USB (June 2020)**
 
 ![32u4 Hub Final 1](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/32u4-hub-final1.jpg)
 
