@@ -252,6 +252,15 @@ Thanks to @_MG_ for recommending this solution.
 ![ESP32-S3 PoC](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/final-poc-rev2-1.png)
 
 
+* **Final PCB - Evil Crow Cable Wind (August 2024)**
+
+![Wind](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/wind-0.jpg)
+
+![Wind](https://github.com/joelsernamoreno/BadUSB-Cable/blob/master/images/wind-1.jpg)
+
+**PROJECT REPOSITORY:** https://github.com/joelsernamoreno/EvilCrowCable-Wind
+
+
 # Collaborators
 
 **Ignacio Diaz & Forensic Security:**
